@@ -249,7 +249,7 @@ contactForm.addEventListener("submit", (event) => {
 
 
     window.location.href =
-        `mailto:your-email@example.com?subject=${mailSubject}&body=${mailBody}`;
+        `mailto:chigurusettidhanush@gmail.com.com?subject=${mailSubject}&body=${mailBody}`;
 
 
     formMessage.textContent =
